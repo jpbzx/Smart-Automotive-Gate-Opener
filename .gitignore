@@ -1,0 +1,27 @@
+# PlatformIO
+.pio
+*.pio
+*.bin
+*.elf
+
+# Arduino
+*.hex
+*.ino.cpp
+
+# Android Studio / Gradle
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+*.apk
+*.aab
+
+# LibreOffice
+*.bak
+*~lock*
+.~*
+
+# macOS / Linux
+.DS_Store
+Thumbs.db
